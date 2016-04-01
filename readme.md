@@ -27,6 +27,11 @@ Run `yo angular-typescript`, optionally passing an app name:
 yo angular-typescript [app-name]
 ```
 
+Pull in the project dependencies:
+```
+npm install
+```
+
 Run `grunt` for building and `grunt serve` for preview
 
 
